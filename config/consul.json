@@ -1,0 +1,11 @@
+{
+    "data_dir": "/opt/consul/data",
+    "ui_dir": "/ui",
+    "client_addr": "0.0.0.0",
+    "ports": {
+        "dns": 53
+    },
+    "server": false,
+    "recursor": "8.8.8.8",
+    "datacenter": "flock"
+}
